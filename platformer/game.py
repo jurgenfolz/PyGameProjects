@@ -1,8 +1,8 @@
 import pygame
 import sys
-from objects.circle import Circle
-from structures.abstract_structure import Structure
-from structures.ground import Ground
+from .objects.circle import Circle
+from .structures.abstract_structure import Structure
+from .structures.ground import Ground
 
 
 class Game:
